@@ -1,0 +1,328 @@
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\appsettings.json
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ProjetoRecodeProMVC.exe
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ProjetoRecodeProMVC.deps.json
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ProjetoRecodeProMVC.runtimeconfig.json
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ProjetoRecodeProMVC.runtimeconfig.dev.json
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ProjetoRecodeProMVC.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ProjetoRecodeProMVC.pdb
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ProjetoRecodeProMVC.Views.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ProjetoRecodeProMVC.Views.pdb
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.csproj.AssemblyReference.cache
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.GeneratedMSBuildEditorConfig.editorconfig
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.AssemblyInfoInputs.cache
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.AssemblyInfo.cs
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.csproj.CoreCompileInputs.cache
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.MvcApplicationPartsAssemblyInfo.cache
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.RazorAssemblyInfo.cache
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.RazorAssemblyInfo.cs
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoRecodeProMVC.StaticWebAssets.Manifest.cache
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.TagHelpers.input.cache
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.TagHelpers.output.cache
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.RazorCoreGenerate.cache
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.RazorTargetAssemblyInfo.cache
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.RazorTargetAssemblyInfo.cs
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.Views.pdb
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.csproj.CopyComplete
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.pdb
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.genruntimeconfig.cache
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\EntityFramework.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Create.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Delete.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Details.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Edit.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Index.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Promotions.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\ProjetoRecode\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contacts.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\appsettings.json
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ProjetoRecodeProMVC.exe
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ProjetoRecodeProMVC.deps.json
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ProjetoRecodeProMVC.runtimeconfig.json
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ProjetoRecodeProMVC.runtimeconfig.dev.json
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ProjetoRecodeProMVC.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ProjetoRecodeProMVC.pdb
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ProjetoRecodeProMVC.Views.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ProjetoRecodeProMVC.Views.pdb
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\EntityFramework.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.csproj.AssemblyReference.cache
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.GeneratedMSBuildEditorConfig.editorconfig
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.AssemblyInfoInputs.cache
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.AssemblyInfo.cs
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.csproj.CoreCompileInputs.cache
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.MvcApplicationPartsAssemblyInfo.cache
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.RazorAssemblyInfo.cache
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.RazorAssemblyInfo.cs
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\staticwebassets\ProjetoRecodeProMVC.StaticWebAssets.Manifest.cache
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.TagHelpers.input.cache
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.TagHelpers.output.cache
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.RazorCoreGenerate.cache
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Create.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Delete.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Details.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Edit.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Index.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contacts.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Promotions.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.RazorTargetAssemblyInfo.cache
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.RazorTargetAssemblyInfo.cs
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.Views.pdb
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.csproj.CopyComplete
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.dll
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.pdb
+W:\Meus Documentos\Área de Trabalho\Projeto Recode -Magno Pereira Barbosa de Lima\ProjetoRecodeProMVC\ProjetoRecodeProMVC\obj\Debug\netcoreapp3.1\ProjetoRecodeProMVC.genruntimeconfig.cache
